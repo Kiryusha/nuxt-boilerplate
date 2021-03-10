@@ -57,7 +57,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "nodemon": "^1.18.9",
     "nuxt-svg-sprite-module": "^1.0.3",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "pug-plain-loader": "^1.0.0",
     "stylus": "^0.54.5",
